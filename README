@@ -1,0 +1,15 @@
+# Linux Server Automation Sample
+
+Simple Bash script for automating backups.
+
+## Features
+
+- Automatic backup creation
+- Timestamped archives
+- Easy scheduling with cron
+
+## Technologies
+
+- Linux
+- Bash
+- Automation
